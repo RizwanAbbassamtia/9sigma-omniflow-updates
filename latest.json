@@ -1,8 +1,8 @@
 {
-  "version": "1.03",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-omniflow-updates/releases/download/v1.03/Install-9SigmaOmniFlow.exe",
-  "notes": "1.03: credits editable in the table; monthly renewal assumed on the plan's day and marked assumed until someone checks Flow. 1.02: Open in Chrome per account.",
-  "sha256": "ec9b523f9ff732003ced2a87c1b57c740f194e12aa5ffefe9372eaf7835920b9",
-  "size": 346250669,
-  "built": "2026-09-23T12:17:30"
+  "version": "1.04",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-omniflow-updates/releases/download/v1.04/Install-9SigmaOmniFlow.exe",
+  "notes": "1.04: automatic clip generation through Google's Gemini API on a billed key (Veo 3.1 standard/fast/lite, Gemini Omni Flash), beside the manual queue. 1.03: credits editable in the table, monthly renewal.",
+  "sha256": "6609e7937bdb7256ea7bc8af66204e708d8f94c2a3eb8f3201298addf4eb6d97",
+  "size": 346266389,
+  "built": "2026-09-23T13:54:23"
 }
