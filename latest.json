@@ -1,8 +1,8 @@
 {
-  "version": "1.02",
-  "url": "https://github.com/RizwanAbbassamtia/9sigma-omniflow-updates/releases/download/v1.02/Install-9SigmaOmniFlow.exe",
-  "notes": "1.02: Open in Chrome per account using your own Chrome profiles (Open in Chrome, Open next in Chrome, Copy prompt and open account); 1.01: the Google Flow manager only: accounts, credits, Who's next, prompt queue, Refresh from clips folder.",
-  "sha256": "c5cf0ea739d13ce1e4e108281ecba12caa376d92e70d3156c3327290f480f104",
-  "size": 346244188,
-  "built": "2026-09-22T22:33:59"
+  "version": "1.03",
+  "url": "https://github.com/RizwanAbbassamtia/9sigma-omniflow-updates/releases/download/v1.03/Install-9SigmaOmniFlow.exe",
+  "notes": "1.03: credits editable in the table; monthly renewal assumed on the plan's day and marked assumed until someone checks Flow. 1.02: Open in Chrome per account.",
+  "sha256": "ec9b523f9ff732003ced2a87c1b57c740f194e12aa5ffefe9372eaf7835920b9",
+  "size": 346250669,
+  "built": "2026-09-23T12:17:30"
 }
